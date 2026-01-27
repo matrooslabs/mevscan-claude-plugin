@@ -1,0 +1,5 @@
+{
+  "name": "mevscan",
+  "version": "1.0.0",
+  "description": "MEV transaction analysis tools for MEVScan. Provides trace tree inspection, pool lookup, and expert knowledge for identifying MEV patterns."
+}
