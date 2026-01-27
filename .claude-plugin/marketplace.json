@@ -1,0 +1,15 @@
+{
+  "name": "mevscan",
+  "owner": {
+    "name": "Matroos Labs",
+    "email": "dev@matroos.xyz"
+  },
+  "plugins": [
+    {
+      "name": "mevscan",
+      "source": "./plugins/mevscan",
+      "description": "MEV transaction analysis tools. Provides trace tree inspection, pool lookup, and expert knowledge for identifying MEV patterns.",
+      "version": "1.0.0"
+    }
+  ]
+}

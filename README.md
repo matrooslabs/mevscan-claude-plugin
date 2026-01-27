@@ -6,7 +6,7 @@ Claude Code plugin for MEV transaction analysis. Provides trace tree inspection,
 
 ```
 /plugin marketplace add https://github.com/matrooslabs/mevscan-claude-plugin
-/plugin install mevscan
+/plugin install mevscan@mevscan
 ```
 
 ## What it provides
