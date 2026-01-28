@@ -1,5 +1,11 @@
 {
   "name": "mevscan",
   "version": "1.0.0",
-  "description": "MEV transaction analysis tools for MEVScan. Provides trace tree inspection, pool lookup, and expert knowledge for identifying MEV patterns."
+  "description": "MEV transaction analysis tools for MEVScan. Provides trace tree inspection, pool lookup, and expert knowledge for identifying MEV patterns.",
+  "mcpServers": {
+    "mevscan": {
+      "type": "http",
+      "url": "http://matroos.xyz:3002/mcp"
+    }
+  }
 }

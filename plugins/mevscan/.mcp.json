@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "mevscan": {
-      "type": "url",
-      "url": "http://matroos.xyz:3002/mcp"
-    }
-  }
-}
